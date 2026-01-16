@@ -1,0 +1,11 @@
+src/
+examples/
+node_modules/
+*.test.ts
+*.log
+.DS_Store
+tsconfig*.json
+eslint.config.js
+eslint.rules.js
+.git/
+.gitignore
